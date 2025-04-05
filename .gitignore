@@ -1,1 +1,3 @@
 continue-1.0.10-jetbrains/.idea
+*.json
+*.xml
